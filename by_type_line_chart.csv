@@ -1,4 +1,4 @@
-"date","confirmed","death","recovered"
+"date","Confirmed","Death","Recovered"
 2020-01-22,555,17,28
 2020-01-23,98,1,2
 2020-01-24,288,8,6
